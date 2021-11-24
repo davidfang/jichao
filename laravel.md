@@ -3,6 +3,7 @@
 1. 提速缓存
 
    * 路由缓存  `php artisan route:cache` 清除缓存 `php artisan route:clear`
+   * 视图缓存  `php artisan view:cache` 清除缓存 `php artisan view:clear`
 
 2.
 3. 
